@@ -1,0 +1,12 @@
+.user-input { 
+    max-width: 960px; 
+    margin: 100px auto; 
+}
+
+.user-input button {
+    margin-top: 1rem;
+}
+
+.user-input h1 {
+    text-align: center;
+}
